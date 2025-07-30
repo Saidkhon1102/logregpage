@@ -14,7 +14,7 @@ function Login() {
       {}
       <div className="relative z-10 w-full max-w-md rounded-2xl bg-white/70 backdrop-blur-md border border-white/40 shadow-xl p-8">
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-6">
-          Welcome Back
+          Welcome
         </h2>
 
         <form className="space-y-5">
